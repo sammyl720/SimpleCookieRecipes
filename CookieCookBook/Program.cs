@@ -5,7 +5,7 @@ using CookieCookBook;
 
 var fileSetting = new FileSetting
 {
-    Format = FileFormat.Json,
+    Format = FileFormat.Text,
     Name = "recipes"
 };
 

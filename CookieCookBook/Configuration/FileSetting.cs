@@ -9,7 +9,7 @@ namespace CookieCookBook.Configuration
 		public FileFormat Format = FileFormat.Json;
 		public string Name = "untitled";
 
-		public string BuildPath() => $"{Name}{FileExtension}";
+		public string BuildPath() => $"{Name}{FileExtension()}";
 
 		private string FileExtension() => Format switch {
 			FileFormat.Text => ".txt",
