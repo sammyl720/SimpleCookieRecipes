@@ -1,0 +1,15 @@
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/bin/Debug/net7.0/CookieCookBook
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/bin/Debug/net7.0/CookieCookBook.deps.json
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/bin/Debug/net7.0/CookieCookBook.runtimeconfig.json
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/bin/Debug/net7.0/CookieCookBook.dll
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/bin/Debug/net7.0/CookieCookBook.pdb
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.csproj.AssemblyReference.cache
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.AssemblyInfoInputs.cache
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.AssemblyInfo.cs
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.csproj.CoreCompileInputs.cache
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.dll
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/refint/CookieCookBook.dll
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.pdb
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/CookieCookBook.genruntimeconfig.cache
+/Users/shmuelleider/source/learning/CookieCookBook/CookieCookBook/obj/Debug/net7.0/ref/CookieCookBook.dll
